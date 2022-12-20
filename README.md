@@ -5,3 +5,9 @@
 ```javascript
 console.log("hello world")
 ```
+values and variables in javascript
+
+var myName = 'ram motivaras';
+log.
+
+
